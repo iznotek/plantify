@@ -1,0 +1,18 @@
+{
+  "dataServiceGeneratorVersion": "0.7.0",
+  "appInfo": {
+    "name": "Plantify",
+    "description": "Plants far far around ...",
+    "version": "ofyeiyqp",
+    "id": "cknt9nyv1885461bs6ckgm75bo",
+    "url": "https://app.amplication.com/cknt9nyv1885461bs6ckgm75bo",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cknt9nyv1885461bs6ckgm75bo"
+    }
+  }
+}
